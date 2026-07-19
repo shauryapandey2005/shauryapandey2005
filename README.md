@@ -1,109 +1,150 @@
 <h1 align="center">Hi 👋, I'm Shaurya Pandey</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • Data Science Enthusiast • AI Explorer
+Full Stack Developer • MERN Stack • Data Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Open+to+Software+Engineering+Internships" />
+I enjoy building scalable web applications, AI-powered projects, and solving real-world problems with code.
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science) Student
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning **System Design, Backend Development & Advanced React**
-- 🤖 Exploring **AI-powered Web Applications**
-- 🚀 Building scalable MERN Stack projects
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Open to Software Engineering Internship Opportunities
+- 🎓 B.Tech CSE (Data Science)
+- 💻 MERN Stack Developer
+- 🌱 Currently improving Backend Development, System Design & React
+- 🤖 Exploring AI integrations using Google Gemini API
+- 📊 Interested in Data Science & Machine Learning
+- 🚀 Always building practical projects and learning new technologies
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Current Projects
+
+- 🤖 AI Mock Interview Platform
+- 💼 MERN Job Portal
+- 🌐 Personal Portfolio Website
+- 📊 Python Data Analysis Projects
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase" />
+</p>
+
+### Data Science
+
+<p>
+
+Python • NumPy • Pandas • Matplotlib • SQL
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 💼 Job Portal Management System
-
-- MERN Stack
-- JWT Authentication
-- Job Posting
-- Application Tracking
-- Admin Dashboard
+## 📌 Featured Projects
 
 ### 🤖 AI Mock Interview
 
-- Google Gemini AI
 - React
-- Clerk Authentication
 - Firebase
-- Personalized AI Feedback
-
-### 🌐 Personal Portfolio
-
-- React
-- Tailwind CSS
-- Responsive Design
-- Modern UI
-
-### 📊 Data Science Projects
-
-- NumPy
-- Pandas
-- Matplotlib
-- Data Analysis
-- Machine Learning
+- Clerk Authentication
+- Google Gemini API
+- Interview Simulation
+- AI Feedback
 
 ---
 
-# 📊 GitHub Stats
+### 💼 Job Portal
 
-<p align="center">
+- MERN Stack
+- JWT Authentication
+- Job Management
+- Search & Filters
+- Responsive UI
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shauryapandey2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryapandey2005&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🌐 Portfolio Website
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+
+---
+
+## 🏆 Achievements
+
+🏅 Academic Excellence Award (2023–24)
+
+🏅 Academic Excellence Award (2024–25)
+
+🎤 Presented Technical Paper on AI Mock Interview Platform
+
+🎤 Presented Technical Paper on Hotel Management System
+
+👨‍💼 Skill Development Coordinator (2 Years)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shaurya-pandey-19800a346/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/shauryapandey2005" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://vercel.com/shauryapandey2005-9856s-projects" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shauryapandey2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryapandey2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -113,41 +154,11 @@ Full Stack Developer • MERN Stack • Data Science Enthusiast • AI Explorer
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shauryapandey2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryapandey2005&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/shauryapandey2005" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shaurya-pandey-19800a346/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://vercel.com/shauryapandey2005-9856s-projects" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryapandey2005&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -155,6 +166,6 @@ Full Stack Developer • MERN Stack • Data Science Enthusiast • AI Explorer
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile!
 
 </p>
